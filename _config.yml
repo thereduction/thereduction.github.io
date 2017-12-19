@@ -1,0 +1,17 @@
+title: The Reduction
+email: jblonchek@gmail.com
+description: >- 
+  A site devoted to giving simple takes on life - the balsamic glaze of society.
+
+baseurl: /
+url: http://www.thereduction.github.io
+permalink: pretty
+
+twitter_username: jblonchek
+github_username:  jblonchek
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
